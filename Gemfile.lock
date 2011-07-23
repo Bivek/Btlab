@@ -126,7 +126,7 @@ GEM
       activerecord (= 3.1.0.rc4)
       activeresource (= 3.1.0.rc4)
       activesupport (= 3.1.0.rc4)
-      bundler (~> 1.0)
+      bundler
       railties (= 3.1.0.rc4)
     railties (3.1.0.rc4)
       actionpack (= 3.1.0.rc4)
