@@ -14,7 +14,7 @@ gem "oauth-plugin", ">= 0.4.0.pre1"
 gem 'sass-rails', "~> 3.1.0.rc"
 gem 'coffee-script'
 gem 'uglifier'
-
+gem 'pg'
 gem 'jquery-rails'
 
 # Use unicorn as the web server
